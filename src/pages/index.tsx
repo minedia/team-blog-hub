@@ -20,6 +20,7 @@ const Page: NextPage = () => {
         description={config.siteMeta.description}
         path="/"
         removeSiteNameFromTitle={true}
+        ogImageUrl={config.siteMeta.ogImageUrl}
       />
 
       <section className="home-hero">
