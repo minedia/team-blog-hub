@@ -3,6 +3,7 @@ export const config = {
     title: "Engineer Blog Hub",
     teamName: "Minedia, Inc.",
     description: "RSS based blog site.",
+    ogImageUrl: 'https://og-image.vercel.app/Minedia%20Engineer%20Blog%20Hub'
   },
   siteRoot:
     process.env.NODE_ENV === "production"
