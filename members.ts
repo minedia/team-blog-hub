@@ -65,3 +65,4 @@ export const members: Member[] = [
     twitterUsername: "takahirostone",
   }
 ];
+
