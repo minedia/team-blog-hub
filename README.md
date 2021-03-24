@@ -29,8 +29,8 @@ $ yarn dev
 - 1日に1回などの頻度で自動デプロイを設定予定。
 
 ## Licence
-MIT
 
+MIT
 
 ## Forked from
 
