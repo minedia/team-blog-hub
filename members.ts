@@ -44,7 +44,7 @@ export const members: Member[] = [
     name: "Yuma Ota",
     role: "University Student",
     bio:
-      "大学生エンジニアです",
+      "インターン中の大学生エンジニアです",
     avatarSrc: "https://avatars.githubusercontent.com/Yum-git",
     sources: [
       "https://yzk-yzk-yzk.hatenablog.com/rss",
