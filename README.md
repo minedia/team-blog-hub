@@ -3,11 +3,13 @@
 ![Demo](https://user-images.githubusercontent.com/98103/100419296-a3d1e880-30c7-11eb-8186-714115ea7547.png)
 
 
-ブログのRSSのURLを登録することで、チームメンバーの投稿を一覧にまとめて表示します。Zenn、Qiita、Medium、note、はてなブログなど、RSSフィードを取得できるサイトであれば、メンバーは好きな場所に投稿できます。
+- ブログのRSSのURLを登録することで、チームメンバーの投稿を一覧にまとめて表示します。Zenn、Qiita、Medium、note、はてなブログなど、RSSフィードを取得できるサイトであれば、メンバーは好きな場所に投稿できます。
+- [こちらのPR](https://github.com/minedia/team-blog-hub/pull/5)を参考にご自分のフィードを登録してもらえればと思います。
 
 ## Published URL
 
-https://minedia-engineer-hub.vercel.app/
+- https://tech-blog.minedia.com/
+
 
 ## Development
 ```bash
@@ -27,9 +29,10 @@ $ yarn dev
 - 1日に1回などの頻度で自動デプロイを設定予定。
 
 ## Licence
-MIT
 
+MIT
 
 ## Forked from
 
 https://github.com/catnose99/team-blog-hub
+
